@@ -10,3 +10,17 @@ header{
 .third{
     background-color:#EFFAFE;
 }
+.last{
+    background-color:#202020;
+}
+footer a{
+    text-decoration: none;
+    padding-top: 10px;
+}
+.active{
+    border-bottom: 3px solid #E63946;
+}
+a{
+    color:#FED4D3
+}
+
